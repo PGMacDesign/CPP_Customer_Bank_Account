@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1384730256 source:g:\programming\c++ programming\lab assignment 03 - customers\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+
